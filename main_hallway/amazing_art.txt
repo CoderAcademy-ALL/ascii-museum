@@ -2,3 +2,16 @@
 ==body:start
 ¯\_( ° ͜ʖ ° )_/¯
 ==body:end
+
+==header:signature Stephen Smith
+==body:start
+             ,-._
+           _.-'  '--.
+         .'      _  -`\_
+        / .----.`_.'----'
+        ;/     `
+ jgs   /_;
+
+    ._      ._      ._      ._
+_.-._)`\_.-._)`\_.-._)`\_.-._)`\_.-._
+==body:end
