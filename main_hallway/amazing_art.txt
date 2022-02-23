@@ -40,3 +40,23 @@
                                                           (_` | / \|\ ||__
                                                           ._) | \_/| \||___
 ==body:end
+
+
+==header:signature Jasmin Kang
+==body:start
+    .----.   @   @
+   / .-"-.`.  \v/
+   | | '\ \ \_/ )
+ ,-\ `-.' /.'  /
+'---`----'----'
+==body:end
+
+==header:signature Jasmin Kang
+==body:start
+ //\         /\\
+|| * \ . . / * ||
+ \\____\X/____//
+  / *  /O\  * \
+  \__/  "  \__/
+
+==body:end
