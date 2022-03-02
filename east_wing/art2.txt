@@ -38,7 +38,7 @@ _)      \.___.,|     .'
      `-'       `--' 
 ==body:end
 
-==header:signature Linus Torvold
+==header:signature Nhi Tran
 ==body:start
 
   ___   _                   ____ ___ _____   _  
